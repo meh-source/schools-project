@@ -1,0 +1,8 @@
+{
+"R_shape":[3, 3],
+"School_denom_shape": [1978, 3],
+"School_gender_shape": [1978, 2],
+"Venom_shape": [1978, 3],
+"Omega_shape": [3, 3],
+"alpha_shape": [38, 3]
+}
